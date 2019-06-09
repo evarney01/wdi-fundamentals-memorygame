@@ -1,8 +1,8 @@
 <style>
 
 header{
-  background-color: #f15b31;
-  color: #FFFFFF;
+  background-color: orange;
+  color: white;
   padding: 30px 20px;
   
 }
@@ -25,16 +25,18 @@ div{
 }
 
 h1{
-  font-family: Raleway, sans-serif;
-  color: #0D2C40;
+  background-color: #F15B31;
+  font-family: raleway, sans-serif;
+  color: white;
   letter-spacing: 1px;
   font-weight: 400;
   font-size:45px;
   margin: 0;
+  text-transform: uppercase;
 }
 
 h2{
-  font-family: Raleway, sans-serif;
+  font-family: raleway, sans-serif;
   color: #0D2C40;
   letter-spacing: 1px;
   font-weight: 600;
@@ -66,12 +68,12 @@ footer{
 }
 
 .copyright {
-  font-family: "Raleway", sans-serif;
+  font-family: "raleway", sans-serif;
   float: left;
 }
 
 .message {
-  font-family: "Raleway", sans-serif;
+  font-family: "raleway", sans-serif;
   float: right;
 }
 

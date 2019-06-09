@@ -1,5 +1,7 @@
 console.log("Up and running!");
 
+window.confirm("WARNING! You're about to play a really cool game!")
+
 var cardOne = "queen";
 var cardTwo = "king";
 var cardThree = "queen";
