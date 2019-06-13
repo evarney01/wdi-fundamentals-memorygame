@@ -10,7 +10,7 @@ let cards = [{rank: "queen",
     suit: "diamonds",
     cardImage:"images/king-of-diamonds.png" }]
 	
-function createBoard(){
+function createBoard.clearfix(){
     for(let i = 0; i < cards.length; i++) {
         cards[i].cardImage
     }
